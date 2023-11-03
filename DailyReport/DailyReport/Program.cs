@@ -66,7 +66,6 @@ namespace DailyReport
             Console.WriteLine("\nThank you " + yourName + " for your answers. An Instructor will respond to this shortly. Have a great day!");  //inserts users name into message
             Console.WriteLine("\nPress any key to exit.");  //instructions to exit program
             Console.ReadKey();  //waits for user to press a key
-            Environment.Exit(0);    //exit the program
         }
     }
 }

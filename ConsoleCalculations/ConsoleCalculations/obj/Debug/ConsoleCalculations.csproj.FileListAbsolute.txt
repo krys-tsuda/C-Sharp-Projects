@@ -1,0 +1,7 @@
+G:\kxxykodez\Tech_Academy\C#_projects\ConsoleCalculations\ConsoleCalculations\bin\Debug\ConsoleCalculations.exe.config
+G:\kxxykodez\Tech_Academy\C#_projects\ConsoleCalculations\ConsoleCalculations\bin\Debug\ConsoleCalculations.exe
+G:\kxxykodez\Tech_Academy\C#_projects\ConsoleCalculations\ConsoleCalculations\bin\Debug\ConsoleCalculations.pdb
+G:\kxxykodez\Tech_Academy\C#_projects\ConsoleCalculations\ConsoleCalculations\obj\Debug\ConsoleCalculations.csproj.AssemblyReference.cache
+G:\kxxykodez\Tech_Academy\C#_projects\ConsoleCalculations\ConsoleCalculations\obj\Debug\ConsoleCalculations.csproj.CoreCompileInputs.cache
+G:\kxxykodez\Tech_Academy\C#_projects\ConsoleCalculations\ConsoleCalculations\obj\Debug\ConsoleCalculations.exe
+G:\kxxykodez\Tech_Academy\C#_projects\ConsoleCalculations\ConsoleCalculations\obj\Debug\ConsoleCalculations.pdb
