@@ -1,0 +1,7 @@
+G:\kxxykodez\Tech_Academy\C#_projects\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.exe.config
+G:\kxxykodez\Tech_Academy\C#_projects\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.exe
+G:\kxxykodez\Tech_Academy\C#_projects\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.pdb
+G:\kxxykodez\Tech_Academy\C#_projects\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.csproj.AssemblyReference.cache
+G:\kxxykodez\Tech_Academy\C#_projects\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.csproj.CoreCompileInputs.cache
+G:\kxxykodez\Tech_Academy\C#_projects\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.exe
+G:\kxxykodez\Tech_Academy\C#_projects\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.pdb
