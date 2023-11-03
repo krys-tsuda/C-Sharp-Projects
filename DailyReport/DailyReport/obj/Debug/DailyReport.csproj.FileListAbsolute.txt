@@ -1,0 +1,7 @@
+G:\kxxykodez\Tech_Academy\C#_projects\DailyReport\DailyReport\bin\Debug\DailyReport.exe.config
+G:\kxxykodez\Tech_Academy\C#_projects\DailyReport\DailyReport\bin\Debug\DailyReport.exe
+G:\kxxykodez\Tech_Academy\C#_projects\DailyReport\DailyReport\bin\Debug\DailyReport.pdb
+G:\kxxykodez\Tech_Academy\C#_projects\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.AssemblyReference.cache
+G:\kxxykodez\Tech_Academy\C#_projects\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
+G:\kxxykodez\Tech_Academy\C#_projects\DailyReport\DailyReport\obj\Debug\DailyReport.exe
+G:\kxxykodez\Tech_Academy\C#_projects\DailyReport\DailyReport\obj\Debug\DailyReport.pdb
