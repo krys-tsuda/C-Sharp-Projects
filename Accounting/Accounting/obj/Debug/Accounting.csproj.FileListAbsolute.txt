@@ -1,0 +1,6 @@
+G:\kxxykodez\Tech_Academy\C#_projects\Accounting\Accounting\bin\Debug\Accounting.exe.config
+G:\kxxykodez\Tech_Academy\C#_projects\Accounting\Accounting\bin\Debug\Accounting.exe
+G:\kxxykodez\Tech_Academy\C#_projects\Accounting\Accounting\bin\Debug\Accounting.pdb
+G:\kxxykodez\Tech_Academy\C#_projects\Accounting\Accounting\obj\Debug\Accounting.csproj.CoreCompileInputs.cache
+G:\kxxykodez\Tech_Academy\C#_projects\Accounting\Accounting\obj\Debug\Accounting.exe
+G:\kxxykodez\Tech_Academy\C#_projects\Accounting\Accounting\obj\Debug\Accounting.pdb
