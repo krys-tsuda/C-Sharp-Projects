@@ -1,0 +1,13 @@
+F:\TechAcademy\C-Sharp-Projects\ShippingQuote2\ShippingQuote2\obj\Debug\netcoreapp3.1\ShippingQuote2.csproj.AssemblyReference.cache
+F:\TechAcademy\C-Sharp-Projects\ShippingQuote2\ShippingQuote2\obj\Debug\netcoreapp3.1\ShippingQuote2.AssemblyInfoInputs.cache
+F:\TechAcademy\C-Sharp-Projects\ShippingQuote2\ShippingQuote2\obj\Debug\netcoreapp3.1\ShippingQuote2.AssemblyInfo.cs
+F:\TechAcademy\C-Sharp-Projects\ShippingQuote2\ShippingQuote2\obj\Debug\netcoreapp3.1\ShippingQuote2.csproj.CoreCompileInputs.cache
+F:\TechAcademy\C-Sharp-Projects\ShippingQuote2\ShippingQuote2\bin\Debug\netcoreapp3.1\ShippingQuote2.exe
+F:\TechAcademy\C-Sharp-Projects\ShippingQuote2\ShippingQuote2\bin\Debug\netcoreapp3.1\ShippingQuote2.deps.json
+F:\TechAcademy\C-Sharp-Projects\ShippingQuote2\ShippingQuote2\bin\Debug\netcoreapp3.1\ShippingQuote2.runtimeconfig.json
+F:\TechAcademy\C-Sharp-Projects\ShippingQuote2\ShippingQuote2\bin\Debug\netcoreapp3.1\ShippingQuote2.runtimeconfig.dev.json
+F:\TechAcademy\C-Sharp-Projects\ShippingQuote2\ShippingQuote2\bin\Debug\netcoreapp3.1\ShippingQuote2.dll
+F:\TechAcademy\C-Sharp-Projects\ShippingQuote2\ShippingQuote2\bin\Debug\netcoreapp3.1\ShippingQuote2.pdb
+F:\TechAcademy\C-Sharp-Projects\ShippingQuote2\ShippingQuote2\obj\Debug\netcoreapp3.1\ShippingQuote2.dll
+F:\TechAcademy\C-Sharp-Projects\ShippingQuote2\ShippingQuote2\obj\Debug\netcoreapp3.1\ShippingQuote2.pdb
+F:\TechAcademy\C-Sharp-Projects\ShippingQuote2\ShippingQuote2\obj\Debug\netcoreapp3.1\ShippingQuote2.genruntimeconfig.cache
