@@ -1,0 +1,13 @@
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\WhileStatement\WhileStatement\bin\Debug\netcoreapp3.1\WhileStatement.exe
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\WhileStatement\WhileStatement\bin\Debug\netcoreapp3.1\WhileStatement.deps.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\WhileStatement\WhileStatement\bin\Debug\netcoreapp3.1\WhileStatement.runtimeconfig.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\WhileStatement\WhileStatement\bin\Debug\netcoreapp3.1\WhileStatement.runtimeconfig.dev.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\WhileStatement\WhileStatement\bin\Debug\netcoreapp3.1\WhileStatement.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\WhileStatement\WhileStatement\bin\Debug\netcoreapp3.1\WhileStatement.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\WhileStatement\WhileStatement\obj\Debug\netcoreapp3.1\WhileStatement.csproj.AssemblyReference.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\WhileStatement\WhileStatement\obj\Debug\netcoreapp3.1\WhileStatement.AssemblyInfoInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\WhileStatement\WhileStatement\obj\Debug\netcoreapp3.1\WhileStatement.AssemblyInfo.cs
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\WhileStatement\WhileStatement\obj\Debug\netcoreapp3.1\WhileStatement.csproj.CoreCompileInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\WhileStatement\WhileStatement\obj\Debug\netcoreapp3.1\WhileStatement.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\WhileStatement\WhileStatement\obj\Debug\netcoreapp3.1\WhileStatement.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\WhileStatement\WhileStatement\obj\Debug\netcoreapp3.1\WhileStatement.genruntimeconfig.cache
