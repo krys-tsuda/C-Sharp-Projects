@@ -1,0 +1,13 @@
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.exe
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.deps.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.runtimeconfig.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.runtimeconfig.dev.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.csproj.AssemblyReference.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.AssemblyInfoInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.AssemblyInfo.cs
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.csproj.CoreCompileInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.genruntimeconfig.cache
