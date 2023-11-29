@@ -1,0 +1,13 @@
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.exe
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.deps.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.runtimeconfig.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.runtimeconfig.dev.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.csproj.AssemblyReference.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.AssemblyInfoInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.AssemblyInfo.cs
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.csproj.CoreCompileInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.genruntimeconfig.cache
