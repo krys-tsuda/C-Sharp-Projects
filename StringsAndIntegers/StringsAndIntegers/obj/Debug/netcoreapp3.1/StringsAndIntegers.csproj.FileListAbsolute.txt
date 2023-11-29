@@ -1,0 +1,13 @@
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.exe
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.deps.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.runtimeconfig.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.runtimeconfig.dev.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.csproj.AssemblyReference.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.AssemblyInfoInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.AssemblyInfo.cs
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.csproj.CoreCompileInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.genruntimeconfig.cache
