@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\TechAcademy\\Git\\C-Sharp-Projects\\WhileStatement\\WhileStatement\\WhileStatement.csproj",
-      "projectName": "WhileStatement",
-      "projectPath": "F:\\TechAcademy\\Git\\C-Sharp-Projects\\WhileStatement\\WhileStatement\\WhileStatement.csproj",
+      "projectUniqueName": "F:\\TechAcademy\\WorkingBranch\\C-Sharp-Projects\\ConsoleAppAssignment\\ConsoleAppAssignment\\ConsoleAppAssignment.csproj",
+      "projectName": "ConsoleAppAssignment",
+      "projectPath": "F:\\TechAcademy\\WorkingBranch\\C-Sharp-Projects\\ConsoleAppAssignment\\ConsoleAppAssignment\\ConsoleAppAssignment.csproj",
       "packagesPath": "C:\\Users\\kxxykodez\\.nuget\\packages\\",
-      "outputPath": "F:\\TechAcademy\\Git\\C-Sharp-Projects\\WhileStatement\\WhileStatement\\obj\\",
+      "outputPath": "F:\\TechAcademy\\WorkingBranch\\C-Sharp-Projects\\ConsoleAppAssignment\\ConsoleAppAssignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

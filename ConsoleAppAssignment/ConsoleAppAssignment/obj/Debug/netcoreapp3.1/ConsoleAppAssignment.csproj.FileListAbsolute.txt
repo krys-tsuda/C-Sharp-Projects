@@ -1,0 +1,13 @@
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\netcoreapp3.1\ConsoleAppAssignment.exe
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\netcoreapp3.1\ConsoleAppAssignment.deps.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\netcoreapp3.1\ConsoleAppAssignment.runtimeconfig.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\netcoreapp3.1\ConsoleAppAssignment.runtimeconfig.dev.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\netcoreapp3.1\ConsoleAppAssignment.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\netcoreapp3.1\ConsoleAppAssignment.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.csproj.AssemblyReference.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.AssemblyInfoInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.AssemblyInfo.cs
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.csproj.CoreCompileInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\netcoreapp3.1\ConsoleAppAssignment.genruntimeconfig.cache
