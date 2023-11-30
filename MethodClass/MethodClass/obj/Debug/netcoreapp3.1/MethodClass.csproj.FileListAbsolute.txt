@@ -1,0 +1,13 @@
+C:\Users\kxxykodez\source\repos\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.exe
+C:\Users\kxxykodez\source\repos\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.deps.json
+C:\Users\kxxykodez\source\repos\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.runtimeconfig.json
+C:\Users\kxxykodez\source\repos\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.runtimeconfig.dev.json
+C:\Users\kxxykodez\source\repos\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.dll
+C:\Users\kxxykodez\source\repos\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.pdb
+C:\Users\kxxykodez\source\repos\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.csproj.AssemblyReference.cache
+C:\Users\kxxykodez\source\repos\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.AssemblyInfoInputs.cache
+C:\Users\kxxykodez\source\repos\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.AssemblyInfo.cs
+C:\Users\kxxykodez\source\repos\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.csproj.CoreCompileInputs.cache
+C:\Users\kxxykodez\source\repos\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.dll
+C:\Users\kxxykodez\source\repos\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.pdb
+C:\Users\kxxykodez\source\repos\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.genruntimeconfig.cache
