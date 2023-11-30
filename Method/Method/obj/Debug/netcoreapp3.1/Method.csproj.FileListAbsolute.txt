@@ -1,0 +1,13 @@
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Method\Method\obj\Debug\netcoreapp3.1\Method.csproj.AssemblyReference.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Method\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfoInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Method\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfo.cs
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Method\Method\obj\Debug\netcoreapp3.1\Method.csproj.CoreCompileInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Method\Method\bin\Debug\netcoreapp3.1\Method.exe
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Method\Method\bin\Debug\netcoreapp3.1\Method.deps.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Method\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Method\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.dev.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Method\Method\bin\Debug\netcoreapp3.1\Method.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Method\Method\bin\Debug\netcoreapp3.1\Method.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Method\Method\obj\Debug\netcoreapp3.1\Method.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Method\Method\obj\Debug\netcoreapp3.1\Method.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Method\Method\obj\Debug\netcoreapp3.1\Method.genruntimeconfig.cache
