@@ -9,28 +9,27 @@ namespace Method
             // Instantiats SalesOperations class
             SalesOperations salesOperations = new SalesOperations();
 
+            Console.WriteLine("Online Doughnut Order");
             // Prompts user for input
             Console.WriteLine("How many doughnuts would you like?");
             int totalDoughnuts = Convert.ToInt32(Console.ReadLine());
 
             // Optional input parameter
-            Console.WriteLine("\nWould you like to add coffee to your order? (Yes/No)");
-            string answer = Console.ReadLine();
+            Console.WriteLine("\nOption to add coffee to your order. \nEnter quantity or press enter.");
+            string coffeeInput = Console.ReadLine();
 
-            if (answer.ToLower() == "yes")
+            // Check if the user entered the quantity of coffee
+            if (string.IsNullOrEmpty(coffeeInput))
             {
-                // takes input for second parameter
-                Console.WriteLine("\nHow many coffees would you like to add?");
-                int totalCoffees = Convert.ToInt32(Console.ReadLine());
-
-                // calls method with optional parameter
-                int totalCost = salesOperations.CalculateCost(totalDoughnuts, totalCoffees);
+                // Call the method with one parameter
+                int totalCost = salesOperations.CalculateCost(totalDoughnuts);
                 Console.WriteLine($"\nTotal = ${totalCost}.00");
             }
-            else 
+            else
             {
-                // calls method without optional parameter
-                int totalCost = salesOperations.CalculateCost(totalDoughnuts);
+                // Parse the quantity of coffee and call the method with two parameters
+                int totalCoffees = Convert.ToInt32(coffeeInput);
+                int totalCost = salesOperations.CalculateCost(totalDoughnuts, totalCoffees);
                 Console.WriteLine($"\nTotal = ${totalCost}.00");
             }
 
