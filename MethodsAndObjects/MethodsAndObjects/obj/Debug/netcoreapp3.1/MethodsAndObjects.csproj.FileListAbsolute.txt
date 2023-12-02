@@ -1,0 +1,13 @@
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.exe
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.deps.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.runtimeconfig.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.runtimeconfig.dev.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.csproj.AssemblyReference.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.AssemblyInfoInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.AssemblyInfo.cs
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.csproj.CoreCompileInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.genruntimeconfig.cache

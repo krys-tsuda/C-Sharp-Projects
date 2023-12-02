@@ -1,7 +1,0 @@
-G:\kxxykodez\Tech_Academy\C#_projects\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.exe.config
-G:\kxxykodez\Tech_Academy\C#_projects\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.exe
-G:\kxxykodez\Tech_Academy\C#_projects\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.pdb
-G:\kxxykodez\Tech_Academy\C#_projects\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.csproj.AssemblyReference.cache
-G:\kxxykodez\Tech_Academy\C#_projects\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.csproj.CoreCompileInputs.cache
-G:\kxxykodez\Tech_Academy\C#_projects\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.exe
-G:\kxxykodez\Tech_Academy\C#_projects\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.pdb
