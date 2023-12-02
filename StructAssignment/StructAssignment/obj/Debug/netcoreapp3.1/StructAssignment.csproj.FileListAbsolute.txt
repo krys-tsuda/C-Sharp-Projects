@@ -1,0 +1,13 @@
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.csproj.AssemblyReference.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.AssemblyInfoInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.AssemblyInfo.cs
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.csproj.CoreCompileInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.exe
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.deps.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.runtimeconfig.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.runtimeconfig.dev.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.genruntimeconfig.cache
