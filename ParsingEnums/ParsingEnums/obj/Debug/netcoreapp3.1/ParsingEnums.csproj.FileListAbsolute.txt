@@ -1,0 +1,13 @@
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.exe
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.deps.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.runtimeconfig.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.runtimeconfig.dev.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.csproj.AssemblyReference.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.AssemblyInfoInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.AssemblyInfo.cs
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.csproj.CoreCompileInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.genruntimeconfig.cache
