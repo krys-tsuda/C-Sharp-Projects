@@ -1,0 +1,13 @@
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParametersAssignment\ParametersAssignment\bin\Debug\netcoreapp3.1\ParametersAssignment.exe
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParametersAssignment\ParametersAssignment\bin\Debug\netcoreapp3.1\ParametersAssignment.deps.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParametersAssignment\ParametersAssignment\bin\Debug\netcoreapp3.1\ParametersAssignment.runtimeconfig.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParametersAssignment\ParametersAssignment\bin\Debug\netcoreapp3.1\ParametersAssignment.runtimeconfig.dev.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParametersAssignment\ParametersAssignment\bin\Debug\netcoreapp3.1\ParametersAssignment.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParametersAssignment\ParametersAssignment\bin\Debug\netcoreapp3.1\ParametersAssignment.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.csproj.AssemblyReference.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.AssemblyInfoInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.AssemblyInfo.cs
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.csproj.CoreCompileInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.genruntimeconfig.cache
