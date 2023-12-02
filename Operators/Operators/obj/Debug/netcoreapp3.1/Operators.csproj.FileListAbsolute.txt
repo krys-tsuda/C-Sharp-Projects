@@ -1,0 +1,13 @@
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.AssemblyReference.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache
