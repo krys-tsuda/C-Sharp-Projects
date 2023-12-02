@@ -1,0 +1,13 @@
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.exe
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.deps.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.dev.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csproj.AssemblyReference.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfoInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfo.cs
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csproj.CoreCompileInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.genruntimeconfig.cache
