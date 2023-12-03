@@ -1,0 +1,13 @@
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.csproj.AssemblyReference.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.AssemblyInfoInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.AssemblyInfo.cs
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.csproj.CoreCompileInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.exe
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.deps.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.runtimeconfig.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.runtimeconfig.dev.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.genruntimeconfig.cache
