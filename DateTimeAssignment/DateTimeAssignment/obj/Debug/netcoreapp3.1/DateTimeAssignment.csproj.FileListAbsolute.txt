@@ -1,0 +1,13 @@
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.exe
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.deps.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.runtimeconfig.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.runtimeconfig.dev.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\netcoreapp3.1\DateTimeAssignment.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.csproj.AssemblyReference.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.AssemblyInfoInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.AssemblyInfo.cs
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.csproj.CoreCompileInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\netcoreapp3.1\DateTimeAssignment.genruntimeconfig.cache
