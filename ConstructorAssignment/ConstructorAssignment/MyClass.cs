@@ -8,19 +8,21 @@ namespace ConstructorAssignment
     public class MyClass
     {
         // Default constructor
-        public MyClass(string myName)
+        public MyClass(string myName) : this(myName, "TechAcademy Program")
         {
-            studentName = myName;   // parameter takes user input
-            programName = "TechAcademy Program";    // default parameter
+            // This constructor calls the other constructor with a default programName
         }
-        // Constructor with parameter
+
+        // Constructor with parameters
         public MyClass(string myName, string myProgram)
         {
-            studentName = myName;   // parameter takes user input
-            programName = myProgram;    // parameter takes user input
+            studentName = myName;
+            programName = myProgram;
         }
-        // class properties
+
+        // Class properties
         public string studentName { get; set; }
         public string programName { get; set; }
     }
 }
+
