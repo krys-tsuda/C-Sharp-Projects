@@ -1,0 +1,16 @@
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.exe
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.deps.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.runtimeconfig.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.runtimeconfig.dev.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.AssemblyReference.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfoInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfo.cs
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.CoreCompileInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.genruntimeconfig.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\Casino.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\Casino.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.CopyComplete

@@ -1,0 +1,9 @@
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfoInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfo.cs
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\Casino\bin\Debug\netcoreapp3.1\Casino.deps.json
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\Casino\bin\Debug\netcoreapp3.1\Casino.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\Casino\bin\Debug\netcoreapp3.1\Casino.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.dll
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.pdb
+F:\TechAcademy\WorkingBranch\C-Sharp-Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.AssemblyReference.cache
