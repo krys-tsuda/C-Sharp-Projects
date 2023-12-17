@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Models\ServerTimeVm.cs~RF28623ed.TMP" />
+    <None Remove="Services\ITimeService.cs~RF27cb010.TMP" />
+  </ItemGroup>
+
+</Project>

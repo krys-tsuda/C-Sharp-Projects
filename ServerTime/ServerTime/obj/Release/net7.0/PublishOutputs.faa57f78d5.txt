@@ -1,0 +1,7 @@
+D:\TechAcademy\Git\C-Sharp-Projects\ServerTime\ServerTime\obj\Release\net7.0\PubTmp\Out\ServerTime.exe
+D:\TechAcademy\Git\C-Sharp-Projects\ServerTime\ServerTime\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\TechAcademy\Git\C-Sharp-Projects\ServerTime\ServerTime\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\TechAcademy\Git\C-Sharp-Projects\ServerTime\ServerTime\obj\Release\net7.0\PubTmp\Out\ServerTime.dll
+D:\TechAcademy\Git\C-Sharp-Projects\ServerTime\ServerTime\obj\Release\net7.0\PubTmp\Out\ServerTime.deps.json
+D:\TechAcademy\Git\C-Sharp-Projects\ServerTime\ServerTime\obj\Release\net7.0\PubTmp\Out\ServerTime.runtimeconfig.json
+D:\TechAcademy\Git\C-Sharp-Projects\ServerTime\ServerTime\obj\Release\net7.0\PubTmp\Out\ServerTime.pdb

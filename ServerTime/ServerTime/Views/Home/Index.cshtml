@@ -1,0 +1,19 @@
+﻿
+@model ServerTime.Models.ServerTimeViewModel
+
+@{
+    ViewData["Title"] = "Server Time";
+}
+
+<div class="content"">
+    <h2>Server Time:</h2>
+    <p id="serverTime">@Model.ServerTime</p>
+</div>
+
+
+<video autoplay muted loop id="bgvid">
+    <source src="/media/glitch.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+</video>
+
+
