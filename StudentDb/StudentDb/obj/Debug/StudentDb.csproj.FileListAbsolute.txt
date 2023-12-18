@@ -1,2 +1,0 @@
-D:\TechAcademy\Git\C-Sharp-Projects\StudentDb\StudentDb\obj\Debug\StudentDb.csproj.AssemblyReference.cache
-D:\TechAcademy\Git\C-Sharp-Projects\StudentDb\StudentDb\obj\Debug\StudentDb.csproj.CoreCompileInputs.cache
