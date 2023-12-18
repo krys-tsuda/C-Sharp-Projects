@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lVP2oddoZeePenCQOWoiNstcqC0dXTd2yvlCk9Al0PhQkTv+58AV1f/rB5I3ip3jN3jyjVnCrzsw8HOW1g0U7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KrysTsuda\\source\\repos\\StudentDb\\StudentDb\\StudentDb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrysTsuda\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}

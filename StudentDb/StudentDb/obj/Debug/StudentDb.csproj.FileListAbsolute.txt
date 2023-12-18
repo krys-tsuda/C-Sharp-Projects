@@ -1,0 +1,2 @@
+C:\Users\KrysTsuda\source\repos\StudentDb\StudentDb\obj\Debug\StudentDb.csproj.AssemblyReference.cache
+C:\Users\KrysTsuda\source\repos\StudentDb\StudentDb\obj\Debug\StudentDb.csproj.CoreCompileInputs.cache
