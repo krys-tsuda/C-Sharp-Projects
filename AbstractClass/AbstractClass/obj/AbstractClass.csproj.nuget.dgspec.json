@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\TechAcademy\\WorkingBranch\\C-Sharp-Projects\\AbstractClass\\AbstractClass\\AbstractClass.csproj": {}
+    "D:\\TechAcademy\\Git\\C-Sharp-Projects\\AbstractClass\\AbstractClass\\AbstractClass.csproj": {}
   },
   "projects": {
-    "F:\\TechAcademy\\WorkingBranch\\C-Sharp-Projects\\AbstractClass\\AbstractClass\\AbstractClass.csproj": {
+    "D:\\TechAcademy\\Git\\C-Sharp-Projects\\AbstractClass\\AbstractClass\\AbstractClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\TechAcademy\\WorkingBranch\\C-Sharp-Projects\\AbstractClass\\AbstractClass\\AbstractClass.csproj",
+        "projectUniqueName": "D:\\TechAcademy\\Git\\C-Sharp-Projects\\AbstractClass\\AbstractClass\\AbstractClass.csproj",
         "projectName": "AbstractClass",
-        "projectPath": "F:\\TechAcademy\\WorkingBranch\\C-Sharp-Projects\\AbstractClass\\AbstractClass\\AbstractClass.csproj",
-        "packagesPath": "C:\\Users\\kxxykodez\\.nuget\\packages\\",
-        "outputPath": "F:\\TechAcademy\\WorkingBranch\\C-Sharp-Projects\\AbstractClass\\AbstractClass\\obj\\",
+        "projectPath": "D:\\TechAcademy\\Git\\C-Sharp-Projects\\AbstractClass\\AbstractClass\\AbstractClass.csproj",
+        "packagesPath": "C:\\Users\\KrysTsuda\\.nuget\\packages\\",
+        "outputPath": "D:\\TechAcademy\\Git\\C-Sharp-Projects\\AbstractClass\\AbstractClass\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kxxykodez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KrysTsuda\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
